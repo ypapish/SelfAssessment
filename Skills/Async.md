@@ -32,7 +32,7 @@
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event 👂 heard
   - Coroutine
   - Goroutine
   - Signal
