@@ -1,24 +1,24 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Procedural programming 👂 heard
+  - Imperative programming 👂 heard
+  - Structured programming  👂 heard
+  - Non-structured programming 👂 heard
+  - Functional programming 👂 heard
+  - Prototype-based programming 👂 heard
+  - Object-oriented programming 👂 heard
+  - Object-based programming 👂 heard
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
+  - Asynchronous programming 👂 heard
+  - Parallel programming 👂 heard
+  - Reactive programming 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Multi-paradigm programming 👂 heard
+  - Metaprogramming 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
@@ -27,12 +27,12 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
+  - Constructor 👂 heard
+  - Operator `new` 👂 heard
+  - Static method 👂 heard
+  - Method 👂 heard
+  - Async method 👂 heard
+  - Getters, Setters 👂 heard
   - Public fields
   - Private fields
   - Field declarations
@@ -40,7 +40,7 @@
   - Parent class
   - Polymorphism
   - Abstract class
-  - Interface
+  - Interface 👂 heard
   - Encapsulation
   - Hidden class
   - Object form
@@ -71,15 +71,15 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy 👂 heard
   - Chain of Responsibility
-  - Command
-  - Iterator
+  - Command 👂 heard
+  - Iterator 👂 heard
   - State
   - Bridge
   - Builder
-  - Prototype
-  - Composite
+  - Prototype 👂 heard
+  - Composite 👂 heard
   - Decorator
   - Flyweight
   - Mediator

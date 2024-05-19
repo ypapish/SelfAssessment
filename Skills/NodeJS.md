@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
@@ -27,7 +27,7 @@
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI
+  - Node.js CLI 👂 heard
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -79,7 +79,7 @@
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS 👂 heard
   - XSS
   - Path traversal
   - CSRF
@@ -99,27 +99,27 @@
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console 👂 heard
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository 👂 heard
   - Active record
   - Query builder
   - Object-Relational Mapping
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` 👂 heard
   - `error.cause`
   - `error.code`
   - `error.message`
   - `error.stack`
   - `Error.captureStackTrace`
-  - How to avoid mixins
-  - Uncaught exceptions
+  - How to avoid mixins 👂 heard
+  - Uncaught exceptions 👂 heard
   - Heap dump
-  - Debugging tools
+  - Debugging tools 👂 heard
   - Flame graph
   - Memory leaks
   - Resource leaks

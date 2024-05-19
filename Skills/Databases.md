@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types 👂 heard
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
   - Relational databases
-  - Key-value store
+  - Key-value store 👂 heard
   - Tuple store
   - Graph databases
-  - Object databases
+  - Object databases 👂 heard
   - Column databases
   - Navigational databases
   - Hierarchical databases
