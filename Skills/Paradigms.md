@@ -2,23 +2,23 @@
 
 - Theory
   - Procedural programming 👂 heard
-  - Imperative programming
-  - Structured programming 
-  - Non-structured programming
+  - Imperative programming 👂 heard
+  - Structured programming  👂 heard
+  - Non-structured programming 👂 heard
   - Functional programming 👂 heard
-  - Prototype-based programming
+  - Prototype-based programming 👂 heard
   - Object-oriented programming 👂 heard
-  - Object-based programming
+  - Object-based programming 👂 heard
   - Generic programming
   - Concurrent computing
   - Asynchronous programming 👂 heard
-  - Parallel programming
-  - Reactive programming
+  - Parallel programming 👂 heard
+  - Reactive programming 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming 👂 heard
-  - Metaprogramming
+  - Metaprogramming 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
@@ -40,7 +40,7 @@
   - Parent class
   - Polymorphism
   - Abstract class
-  - Interface
+  - Interface 👂 heard
   - Encapsulation
   - Hidden class
   - Object form
@@ -78,8 +78,8 @@
   - State
   - Bridge
   - Builder
-  - Prototype
-  - Composite
+  - Prototype 👂 heard
+  - Composite 👂 heard
   - Decorator
   - Flyweight
   - Mediator
