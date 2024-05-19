@@ -2,8 +2,8 @@
 
 - Application structure
   - Modularity 👂heard
-  - Components
-  - Directories
+  - Components 👂 heard
+  - Directories 👂 heard
   - GRASP
   - SOLID
   - GoF patterns
@@ -30,7 +30,7 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming 👂 heard
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
