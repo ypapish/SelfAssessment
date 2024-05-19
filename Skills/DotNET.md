@@ -37,14 +37,14 @@
   - Memory and resource management 
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
-  - TCP/UDP networking
+  - HTTP/HTTPS support 👂 heard
+  - WebSockets for real-time communication 👂 heard
+  - TCP/UDP networking 👂 heard
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
-  - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - Network security (DDoS, XSS, CSRF prevention) 👂 heard
+  - Serialization and deserialization (JSON, XML) 👂 heard
 - Testing and Debugging
   - Unit testing with frameworks like xUnit, NUnit
   - Integration testing
@@ -62,9 +62,9 @@
 - Error Handling and Debugging
   - Exception handling in .NET
   - Custom error classes
-  - Debugging and diagnostic tools
+  - Debugging and diagnostic tools 👂 heard
   - Profiling and performance analysis
-  - Memory leak detection
+  - Memory leak detection 👂 heard
 - Integration and Extensibility
   - Interoperability with native libraries
   - P/Invoke for calling `C/C++` libraries
