@@ -20,7 +20,7 @@
   - Parallel programming 👂 heard
   - Actor Model
   - Thread
-  - Process
+  - Process 👂 heard
 - Async contracts
   - Callbacks 👂 heard
   - Callback-last-error-first
@@ -35,31 +35,31 @@
   - Event 👂 heard
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal 👂 heard
   - Stream
   - Chain of responsibility
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
+  - callbackify 👂 heard
+  - promisify 👂 heard
+  - asyncify 👂 heard
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
   - EventEmitter 👂 heard
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
+  - Observable/Observer 👂 heard
+  - Readable 👂 heard
+  - Writable 👂 heard
+  - Transform 👂 heard
   - Async Pool
-  - Async Queue
+  - Async Queue 👂 heard
   - Async Collector
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers 👂 heard
   - `setImmediate`
   - `nextTick`
   - AbortController

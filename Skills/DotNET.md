@@ -27,24 +27,24 @@
   - Environment variables and configuration 👂 hear
   - File system I/O operations
   - Multithreading with Task Parallel Library (TPL)
-  - Performance monitoring and diagnostics
+  - Performance monitoring and diagnostics 👂 heard
 - APIs and Framework Features
   - LINQ
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
-  - Memory and resource management 
-  - Globalization and localization
+  - Memory and resource management 👂 heard
+  - Globalization and localization 👂 heard
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
-  - TCP/UDP networking
+  - HTTP/HTTPS support 👂 heard
+  - WebSockets for real-time communication 👂 heard
+  - TCP/UDP networking 👂 heard
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
-  - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - Network security (DDoS, XSS, CSRF prevention) 👂 heard
+  - Serialization and deserialization (JSON, XML) 👂 heard
 - Testing and Debugging
   - Unit testing with frameworks like xUnit, NUnit
   - Integration testing
@@ -62,9 +62,9 @@
 - Error Handling and Debugging
   - Exception handling in .NET
   - Custom error classes
-  - Debugging and diagnostic tools
+  - Debugging and diagnostic tools 👂 heard
   - Profiling and performance analysis
-  - Memory leak detection
+  - Memory leak detection 👂 heard
 - Integration and Extensibility
   - Interoperability with native libraries
   - P/Invoke for calling `C/C++` libraries

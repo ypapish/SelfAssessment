@@ -4,8 +4,8 @@
   - Strong and weak sides of node.js 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
+  - Event loop phases 👂 heard
+  - Event loop microtasks and macrotasks 👂 heard
   - Garbage collection
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
@@ -26,7 +26,7 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments 👂 heard
   - Node.js CLI 👂 heard
   - Process-based permissions
   - Graceful shutdown
@@ -67,23 +67,23 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S) 👂 heard
   - TCP/SSL
-  - UDP
+  - UDP 👂 heard
   - TLS
-  - Websocket
+  - Websocket 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
-  - Routing
-  - DoS
+  - Routing 👂 heard
+  - DoS 👂 heard
   - DDoS 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS 👂 heard
   - SQL injection
   - noDelay
   - keep-alive
@@ -92,17 +92,17 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing 👂 heard
   - CI/CD
-  - Readable
-  - Writable
+  - Readable 👂 heard
+  - Writable 👂 heard
   - Transform
   - Back pressure
-  - Buffer
+  - Buffer 👂 heard
   - Console 👂 heard
-  - Inspector
+  - Inspector 👂 heard
 - Data access
-  - Data access layer
+  - Data access layer 👂 heard
   - Repository 👂 heard
   - Active record
   - Query builder

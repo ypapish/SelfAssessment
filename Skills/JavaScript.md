@@ -22,14 +22,14 @@
   - Iterators 🎓 known
   - Async generator 👂 heard
   - Async iterator 👂 heard
-  - Chaining
-  - Optional chaining
-  - IIFE
+  - Chaining 🎓 known
+  - Optional chaining 👂 heard
+  - IIFE 👂 heard
   - Async IIFE
   - `global` 👂 heard
   - `globalThis`
   - `window` 👂 heard
-  - Getters and setters
+  - Getters and setters 👂 heard
   - `__proto__` 👂 heard
   - `prototype` 👂 heard
   - Equality operators 🖐️ used
@@ -48,16 +48,16 @@
   - `super`
   - `eval`
   - `static` 👂 heard
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
+  - `Number.parseInt` 👂 heard
+  - `Number.parseFloat` 👂 heard
+  - Property descriptors 👂 heard
   - Sealing properties
   - Freezing properties
-  - Computed properties
+  - Computed properties 👂 heard
   - Instance class fields
   - Static class fields
   - Private class fields
-  - Private class methods
+  - Private class methods 👂 heard
 - Statements
   - `if` 🙋 explained
   - `while` 🖐️ used
@@ -75,7 +75,7 @@
   - `try..catch` 👂 heard
   - `switch` 🖐️ used
   - `class` 👂 heard
-  - `extends`
+  - `extends` 👂 heard
   - `with` 👂 heard
   - `new` 👂 heard
 - Functions
@@ -97,7 +97,7 @@
   - `WeakSet` 👂 heard
   - Typed arrays 👂 heard
   - Mixins 👂 heard
-  - `Object.assign`
+  - `Object.assign` 👂 heard
 - Standard classes and namespaces
   - `Proxy` 👂 heard
   - `RegExp` 👂 heard

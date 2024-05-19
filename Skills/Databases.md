@@ -5,7 +5,7 @@
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery 👂 heard
   - Database scalability
   - Relational databases
   - Key-value store 👂 heard
@@ -24,7 +24,7 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing
+  - Indexing 👂 heard
   - Primary keys
   - Foreign keys
   - Transactions
@@ -34,7 +34,7 @@
   - SQL functions
   - Materialized views
   - Replications
-  - Virtualization
+  - Virtualization 👂 heard
 - SQL
   - `SELECT`
   - `INSERT`
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Big data 👂 heard
+  - Data analysis 👂 heard
+  - AI tools 👂 heard
+  - Cloud databases 👂 heard
+  - Data Visualization 👂 heard

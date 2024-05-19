@@ -7,7 +7,7 @@
   - Subject domain
   - Algorithm 🎓 known
   - Syntax 🎓 known
-  - Semantics
+  - Semantics 👂 heard
   - Abstraction 👂 heard
   - Paradigm 👂 heard
   - Programm 🎓 known
@@ -50,7 +50,7 @@
   - Type 👂 heard
   - Flag 🖐️ used
   - Lexical scope 👂 heard
-  - Code block
+  - Code block 👂 heard
   - Conditions 👂 heard
   - Loops 🖐️ used
   - Assignment 👂 heard
@@ -70,8 +70,8 @@
   - Primitive types 🖐️ used
   - Reference types 👂 heard
   - Type systems 👂 heard
-  - Strong typing
-  - Weak typing
+  - Strong typing 👂 heard
+  - Weak typing 👂 heard
   - Duck typing
   - Static typing 👂 heard
   - Dynamic typing 👂 heard
@@ -88,57 +88,57 @@
   - Pure function 👂 heard
   - Lambda expression 🖐️ used
   - Side effects 👂 heard
-  - Closure
-  - Partial application
-  - Currying
+  - Closure 🖐️ used
+  - Partial application 🖐️ used
+  - Currying 🖐️ used
   - Higher order 👂 heard
   - Recursion 👂 heard
   - Tail call optimisation
   - Callback 👂 heard
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
+  - Listener 👂 heard
+  - Composition 🎓 known
+  - Pipe 👂 heard
+  - Memoize 🎓 known
   - Wrapper 👂 heard
   - Functor 👂 heard
-  - Monad
-  - Monoid
+  - Monad 👂 heard
+  - Monoid 👂 heard
   - Generator 👂 heard
   - Coroutine
 - Data structures
   - Array 🖐️ used
   - Structure 👂 heard
-  - Record
-  - Enum
+  - Record 👂 heard
+  - Enum 👂 heard
   - Instance
   - Object 🖐️ used
-  - Collection
+  - Collection 👂 heard
   - Set 👂 heard
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
+  - Hash table 🎓 known
+  - Linked list 🖐️ used
+  - Doubly list 🖐️ used
+  - Unrolled list 🎓 known
+  - Circular list 🖐️ used
+  - Queue 🎓 known
   - Stack 👂 heard
-  - Deque
+  - Deque 🎓 known
   - Tree 👂 heard
   - Graph 👂 heard
   - Iterator 🖐️ used
-  - Mutable state
-  - Immutable state
+  - Mutable state 👂 heard
+  - Immutable state 👂 heard
   - Serialization 👂 heard
-  - String parsing
+  - String parsing 👂 heard
   - JSON 👂 heard
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS 🖐️ used
   - CDN
   - CORS
-  - IPv4 👂 heard
-  - IPv6
-  - NAT
+  - IPv4 🙋 explained
+  - IPv6 🙋 explained
+  - NAT 🖐️ used
   - URL 👂 heard
   - URN
   - URI
@@ -146,25 +146,25 @@
   - Compiler 👂 heard
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
-  - Polyfill
-  - Interpreter
+  - Transpiler 👂 heard
+  - Linter 👂 heard
+  - Polyfill 👂 heard
+  - Interpreter 👂 heard
   - Linker
   - Dynamic linking
   - Static linking
   - Runtime 👂 heard
-  - Virtual machine
+  - Virtual machine 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
   - Debugger 🖐️ used
-  - Tracing
+  - Tracing 👂 heard
   - Garbage collection
   - Refactoring 👂 heard
   - Code review 👂 heard
   - Exception 👂 heard
-  - Unittesting
+  - Unittesting 👂 heard
   - git 👂 heard
   - Github 🖐️ used
   - Docker
@@ -174,10 +174,10 @@
 - Antipatterns
   - Magic numbers 👂 heard
   - Hard code 👂 heard
-  - Soft code
-  - Cryptic code
-  - Improbability factor
-  - Accidental complexity
+  - Soft code 👂 heard
+  - Cryptic code 👂 heard
+  - Improbability factor 👂 heard
+  - Accidental complexity 👂 heard
   - Action at a distance
   - Spaghetti 👂 heard
   - Silver bullet 👂 heard
@@ -187,7 +187,7 @@
   - Duplicate code 👂 heard
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops 👂 heard
   - Long method/function/procedure 👂 heard
   - Long inheritance
   - Large class/file
@@ -220,8 +220,8 @@
   - BSD
   - MacOS 👂 heard
   - Windows 👂 heard
-  - Real-time OS
-  - Embedded OS
+  - Real-time OS 👂 heard
+  - Embedded OS 👂 heard
 - Standards
   - ASCII
   - Escape sequence
