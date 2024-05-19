@@ -16,10 +16,10 @@
   - Contract
   - Module 🎓 known
   - Library 🎓 known
-  - Package
-  - Component
+  - Package 👂 heard
+  - Component 👂 heard
   - Framework 👂 heard
-  - Platform
+  - Platform 👂 heard
   - Source code 👂 heard
   - Object code 👂 heard
   - Machine code 👂 heard
@@ -30,8 +30,8 @@
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) 👂 heard
+  - KISS principle 🎓 known
 - Syntax and concepts
   - Value 🖐️ used
   - Identifier 🖐️ used
@@ -51,12 +51,12 @@
   - Flag 🖐️ used
   - Lexical scope 👂 heard
   - Code block
-  - Conditions
+  - Conditions 👂 heard
   - Loops 🖐️ used
-  - Assignment
+  - Assignment 👂 heard
   - Regular expression 🖐️ used
   - Interface 👂 heard
-  - Namespaces
+  - Namespaces 👂 heard
   - Call stack
   - Naming conventions
   - Coding conventions
@@ -68,7 +68,7 @@
   - Fail-fast
 - Types
   - Primitive types 🖐️ used
-  - Reference types
+  - Reference types 👂 heard
   - Type systems 👂 heard
   - Strong typing
   - Weak typing
@@ -127,9 +127,9 @@
   - Iterator 🖐️ used
   - Mutable state
   - Immutable state
-  - Serialization
+  - Serialization 👂 heard
   - String parsing
-  - JSON
+  - JSON 👂 heard
   - JSON5
   - YAML
 - Networking
@@ -163,7 +163,7 @@
   - Garbage collection
   - Refactoring 👂 heard
   - Code review 👂 heard
-  - Exception
+  - Exception 👂 heard
   - Unittesting
   - git 👂 heard
   - Github 🖐️ used
@@ -197,7 +197,7 @@
   - Use switch/case 👂 heard
   - Temporary field
   - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
+  - Use fields instead of arguments 👂 heard
   - Data clump
   - Feature envy
   - Monkey patch
@@ -209,8 +209,8 @@
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
-  - Drivers
+  - Interrupts 👂 heard
+  - Drivers 👂 heard
   - Kernel
   - Ring
   - Virtual memory 👂 heard
