@@ -24,7 +24,7 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing
+  - Indexing 👂 heard
   - Primary keys
   - Foreign keys
   - Transactions
@@ -34,12 +34,12 @@
   - SQL functions
   - Materialized views
   - Replications
-  - Virtualization
+  - Virtualization 👂 heard
 - SQL
   - `SELECT`
-  - `INSERT` 👂 heard
+  - `INSERT`
   - `UPDATE`
-  - `DELETE` 👂 heard
+  - `DELETE`
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
+  - Big data 👂 heard
+  - Data analysis 👂 heard
   - AI tools 👂 heard
-  - Cloud databases
+  - Cloud databases 👂 heard
   - Data Visualization 👂 heard
