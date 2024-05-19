@@ -10,7 +10,7 @@
   - CQS
   - Leaking abstractions
   - Multiparadigm code 👂heard
-  - Contract programming
+  - Contract programming 👂 heard
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
@@ -18,22 +18,22 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
+  - Reliability 👂 heard
   - Quality 👂heard
   - Availability 👂heard
   - Flexibility 👂heard
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer 👂 heard
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach 👂 heard
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming 👂 heard
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture
+  - Clean architecture 👂 heard
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -51,7 +51,7 @@
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways
+  - Gateways 👂 heard
   - On-premises
   - IaaS
   - PaaS
@@ -66,7 +66,7 @@
   - Solution capabilities
   - System design
   - Process modelling
-  - Data modelling
+  - Data modelling 👂 heard
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
@@ -74,7 +74,7 @@
   - BPMN
   - Low-code
   - No-code
-  - Metric
+  - Metric 👂 heard
   - Metric abuse
   - ACID
   - CAP theorem
