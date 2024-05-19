@@ -63,16 +63,16 @@
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
+  - Solution capabilities 👂 heard
+  - System design 👂 heard
+  - Process modelling 👂 heard
   - Data modelling 👂 heard
-  - Solution components
+  - Solution components 👂 heard
   - Risk assessment
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code
+  - Low-code 👂 heard
   - No-code
   - Metric 👂 heard
   - Metric abuse
