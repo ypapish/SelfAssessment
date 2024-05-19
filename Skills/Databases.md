@@ -5,7 +5,7 @@
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery 👂 heard
   - Database scalability
   - Relational databases
   - Key-value store 👂 heard
@@ -37,9 +37,9 @@
   - Virtualization
 - SQL
   - `SELECT`
-  - `INSERT`
+  - `INSERT` 👂 heard
   - `UPDATE`
-  - `DELETE`
+  - `DELETE` 👂 heard
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
@@ -89,6 +89,6 @@
   - Business intelligence
   - Big data
   - Data analysis
-  - AI tools
+  - AI tools 👂 heard
   - Cloud databases
-  - Data Visualization
+  - Data Visualization 👂 heard
