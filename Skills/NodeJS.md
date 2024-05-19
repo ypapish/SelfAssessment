@@ -116,10 +116,10 @@
   - `error.message`
   - `error.stack`
   - `Error.captureStackTrace`
-  - How to avoid mixins
-  - Uncaught exceptions
+  - How to avoid mixins 👂 heard
+  - Uncaught exceptions 👂 heard
   - Heap dump
-  - Debugging tools
+  - Debugging tools 👂 heard
   - Flame graph
   - Memory leaks
   - Resource leaks
