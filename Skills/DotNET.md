@@ -3,7 +3,7 @@
 - Core Concepts and Internals
   - Strengths and weaknesses of .NET
   - Stateful and stateless services
-  - Asynchronous and synchronous programming
+  - Asynchronous and synchronous programming 👂 heard
   - Task-based asynchronous pattern
   - Garbage collection in .NET
   - .NET runtime versions and support
@@ -19,12 +19,12 @@
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
-  - Command line interface (CLI) tools
+  - Command line interface (CLI) tools 👂 heard
   - .NET CLI
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
-  - Environment variables and configuration
+  - Environment variables and configuration 👂 hear
   - File system I/O operations
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
@@ -34,7 +34,7 @@
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
-  - Memory and resource management
+  - Memory and resource management 
   - Globalization and localization
 - Network and Protocols
   - HTTP/HTTPS support
@@ -50,7 +50,7 @@
   - Integration testing
   - Logging and tracing
   - Application monitoring and telemetry
-  - Debugging tools and strategies
+  - Debugging tools and strategies 👂 heard
   - Performance profiling and analysis
 - Data Access and ORM
   - Entity Framework Core
