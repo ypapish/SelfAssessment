@@ -2,16 +2,16 @@
 
 - Language
   - `Object` 🖐️ used
-  - `Function` 🖐️ used
+  - `Function` 🙋 explained
   - `Boolean` 🖐️ used
   - `Number` 🖐️ used
   - `BigInt` 🖐️ used
   - `String` 🖐️ used
   - `Symbol` 👂 heard
   - `Infinity` 🖐️ used
-  - `NaN` 🖐️ used
+  - `NaN` 🙋 explained
   - `undefined` 🖐️ used
-  - `null` 🖐️ used
+  - `null` 🙋 explained
   - `this` 👂 heard
   - `instanceof` 👂 heard
   - `...spread` 👂 heard
@@ -28,19 +28,19 @@
   - Async IIFE
   - `global` 👂 heard
   - `globalThis`
-  - `window`
+  - `window` 👂 heard
   - Getters and setters
   - `__proto__` 👂 heard
-  - `prototype`
+  - `prototype` 👂 heard
   - Equality operators 🖐️ used
   - Logical operators 🖐️ used
   - Logical Assignment 🖐️ used
-  - Bitwise operators 🖐️ used
-  - Ternary operator 🖐️ used
+  - Bitwise operators 🙋 explained
+  - Ternary operator 🙋 explained
   - `void` 🖐️ used
   - `yield` 👂 heard
   - `await` 👂 heard
-  - Template literal
+  - Template literal 👂 heard
   - Strict mode 🖐️ used
   - Hoisting
   - `delete` 👂 heard
@@ -59,7 +59,7 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` 🖐️ used
+  - `if` 🙋 explained
   - `while` 🖐️ used
   - `do..while` 🖐️ used
   - `for` 🖐️ used
@@ -69,8 +69,8 @@
   - `throw` 👂 heard
   - `break` 🖐️ used
   - `continue` 🖐️ used
-  - `import` 👂 heard
-  - `export` 👂 heard
+  - `import` 🙋 explained
+  - `export` 🙋 explained
   - `label` 👂 heard
   - `try..catch` 👂 heard
   - `switch` 🖐️ used
@@ -79,20 +79,20 @@
   - `with` 👂 heard
   - `new` 👂 heard
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
+  - Arrow function 👂 heard
+  - Async function 👂 heard
+  - Function declaration 🙋 explained
+  - Function expression 🙋 explained
+  - Default parameters 🙋 explained
+  - Functional object 🙋 explained
+  - `Function.prototype.call` 👂 heard
+  - `Function.prototype.bind` 👂 heard
+  - `Function.prototype.apply` 👂 heard
   - `return` 🖐️ used
 - Data structures
   - `Array` 🖐️ used
-  - `Map` 👂 heard
-  - `Set` 👂 heard
+  - `Map` 🔬 researched
+  - `Set` 🔬 researched
   - `WeakMap` 👂 heard
   - `WeakSet` 👂 heard
   - Typed arrays 👂 heard
@@ -110,7 +110,7 @@
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise` 👂 heard
   - `console` 👂 heard
   - Timers 👂 heard
 - Infrastructure
