@@ -35,16 +35,16 @@
   - Getters, Setters 👂 heard
   - Public fields 👂 heard
   - Private fields 👂 heard
-  - Field declarations
+  - Field declarations 👂 heard
   - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
+  - Parent class 👂 heard
+  - Polymorphism 👂 heard
+  - Abstract class 👂 heard
   - Interface 👂 heard
   - Encapsulation
   - Hidden class
-  - Object form
-  - Instance
+  - Object form 👂 heard
+  - Instance 👂 heard
   - Introspection
   - Reflection
   - The diamond problem
@@ -64,18 +64,18 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
+  - Singleton 👂 heard
   - Factory Method
   - Abstract Factory
   - Adapter
-  - Observer
-  - Strategy
-  - Facade
+  - Observer 👂 heard
+  - Strategy 👂 heard
+  - Facade 👂 heard
   - Proxy 👂 heard
   - Chain of Responsibility
   - Command 👂 heard
   - Iterator 👂 heard
-  - State
+  - State 👂 heard
   - Bridge
   - Builder 👂 heard
   - Prototype 👂 heard
