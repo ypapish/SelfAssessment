@@ -27,15 +27,15 @@
   - Environment variables and configuration 👂 hear
   - File system I/O operations
   - Multithreading with Task Parallel Library (TPL)
-  - Performance monitoring and diagnostics
+  - Performance monitoring and diagnostics 👂 heard
 - APIs and Framework Features
   - LINQ
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
-  - Memory and resource management 
-  - Globalization and localization
+  - Memory and resource management 👂 heard
+  - Globalization and localization 👂 heard
 - Network and Protocols
   - HTTP/HTTPS support 👂 heard
   - WebSockets for real-time communication 👂 heard
