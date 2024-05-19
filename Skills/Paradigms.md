@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 👂 heard
+  - Procedural programming 🔬 researched
   - Imperative programming 👂 heard
   - Structured programming  👂 heard
   - Non-structured programming 👂 heard
-  - Functional programming 👂 heard
+  - Functional programming 🔬 researched
   - Prototype-based programming 👂 heard
   - Object-oriented programming 👂 heard
   - Object-based programming 👂 heard
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming 👂 heard
+  - Generic programming 👂 heard
+  - Concurrent computing 👂 heard
+  - Asynchronous programming 🔬 researched
   - Parallel programming 👂 heard
   - Reactive programming 👂 heard
   - Functional-reactive (FRP)
@@ -23,9 +23,9 @@
   - Lambda calculus
   - Black box
   - Information hiding
-  - Aspect-oriented programming
+  - Aspect-oriented programming 👂 heard
   - Anemic domain model
-  - Class composition
+  - Class composition 👂 heard
 - OOP basics
   - Constructor 👂 heard
   - Operator `new` 👂 heard
@@ -33,8 +33,8 @@
   - Method 👂 heard
   - Async method 👂 heard
   - Getters, Setters 👂 heard
-  - Public fields
-  - Private fields
+  - Public fields 👂 heard
+  - Private fields 👂 heard
   - Field declarations
   - Inheritance
   - Parent class
@@ -77,12 +77,12 @@
   - Iterator 👂 heard
   - State
   - Bridge
-  - Builder
+  - Builder 👂 heard
   - Prototype 👂 heard
   - Composite 👂 heard
   - Decorator
   - Flyweight
-  - Mediator
+  - Mediator 👂 heard
   - Memento
   - Template Method
   - Visitor
