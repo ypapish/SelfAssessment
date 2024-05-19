@@ -1,23 +1,23 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming 👂 heard
   - Imperative programming
-  - Structured programming
+  - Structured programming 
   - Non-structured programming
-  - Functional programming
+  - Functional programming 👂 heard
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming 👂 heard
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming 👂 heard
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,12 +27,12 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
+  - Constructor 👂 heard
+  - Operator `new` 👂 heard
+  - Static method 👂 heard
+  - Method 👂 heard
+  - Async method 👂 heard
+  - Getters, Setters 👂 heard
   - Public fields
   - Private fields
   - Field declarations
@@ -71,10 +71,10 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy 👂 heard
   - Chain of Responsibility
-  - Command
-  - Iterator
+  - Command 👂 heard
+  - Iterator 👂 heard
   - State
   - Bridge
   - Builder
