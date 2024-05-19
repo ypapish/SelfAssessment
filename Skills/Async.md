@@ -48,12 +48,12 @@
   - Async compose
 - Async abstractions interfaces
   - EventEmitter 👂 heard
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
+  - Observable/Observer 👂 heard
+  - Readable 👂 heard
+  - Writable 👂 heard
+  - Transform 👂 heard
   - Async Pool
-  - Async Queue
+  - Async Queue 👂 heard
   - Async Collector
   - Semaphore
   - Mutex
