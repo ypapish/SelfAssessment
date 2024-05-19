@@ -67,23 +67,23 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S) 👂 heard
   - TCP/SSL
-  - UDP
+  - UDP 👂 heard
   - TLS
-  - Websocket
+  - Websocket 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
-  - Routing
-  - DoS
+  - Routing 👂 heard
+  - DoS 👂 heard
   - DDoS 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS 👂 heard
   - SQL injection
   - noDelay
   - keep-alive
@@ -92,15 +92,15 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing 👂 heard
   - CI/CD
   - Readable
   - Writable
   - Transform
   - Back pressure
-  - Buffer
+  - Buffer 👂 heard
   - Console 👂 heard
-  - Inspector
+  - Inspector 👂 heard
 - Data access
   - Data access layer
   - Repository 👂 heard
